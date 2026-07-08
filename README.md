@@ -100,8 +100,6 @@ B.Tech Artificial Intelligence and Data Science
 
 Passionate about Machine Learning, Data Science, and AI.
 
-GitHub: https://github.com/poojapandian6
-
 LinkedIn: https://www.linkedin.com/in/pooja-t-3b7469291/
 
 ---
