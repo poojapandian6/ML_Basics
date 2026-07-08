@@ -10,7 +10,9 @@ It finds the best-fit straight line by minimizing the Sum of Squared Errors (SSE
 
 ## 📊 Dataset
 
-- Custom sample dataset
+- **Dataset:** House Price Dataset (`houseprice.csv`)
+- **Target Variable:** House Price
+- **Features:** House-related attributes used for prediction.
 
 ---
 
