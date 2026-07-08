@@ -7,10 +7,11 @@ Multiple Linear Regression is a supervised machine learning algorithm used to pr
 The model learns the relationship between multiple input variables and a single output variable.
 
 ---
-
 ## 📊 Dataset
 
-- Custom sample dataset
+- **Dataset:** House Price Dataset (`houseprice.csv`)
+- **Target Variable:** House Price
+- **Features:** House-related attributes used for prediction.
 
 ---
 
