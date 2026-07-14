@@ -16,8 +16,8 @@ The goal of this repository is to build a strong understanding of machine learni
 |  04  | Lasso Regression                   | Regularization           | ⏳ Coming Soon |
 |  05  | Elastic Net Regression             | Regularization           | ⏳ Coming Soon |
 |  06  | Logistic Regression                | Classification           |  ✅ Completed  |
-|  07  | Naive Bayes                        | Classification           | ⏳ Coming Soon |
-|  08  | K-Nearest Neighbors (KNN)          | Classification           | ⏳ Coming Soon |
+|  07  | Naive Bayes                        | Classification           |  ✅ Completed  |
+|  08  | K-Nearest Neighbors (KNN)          | Classification           |  ✅ Completed  |
 |  09  | Decision Tree                      | Classification           | ⏳ Coming Soon |
 |  10  | Random Forest                      | Ensemble                 | ⏳ Coming Soon |
 |  11  | Support Vector Machine (SVM)       | Classification           | ⏳ Coming Soon |
